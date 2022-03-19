@@ -24,14 +24,28 @@ Remove An Employee - command line that deletes an employee from the database
 
 Update Employee Role - command line that updates the role/ title of an employee.
 
+
 Install
 npm i - to install all file in order for npm to work
+
 npm i inquirer - to use inquirer (to interact with the user via command line)
+
 npm init - to create a json file
+
 npm i mysql - to connect to MySql database
+
 npm console.table - to format tables
+
+
 Run
 node index.js
+
+Run
+node index.js
+Dependencies
+![image](https://user-images.githubusercontent.com/87239985/159131968-ae9f2e2b-898c-42e6-ac61-33ca7031754e.png)
+
+
 
 DEMO: 
 ![image](https://user-images.githubusercontent.com/87239985/159131907-e8cded08-4cc3-48f9-85f2-8e3fd739fc86.png)
