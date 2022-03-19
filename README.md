@@ -33,6 +33,9 @@ npm console.table - to format tables
 Run
 node index.js
 
+DEMO: 
+![image](https://user-images.githubusercontent.com/87239985/159131907-e8cded08-4cc3-48f9-85f2-8e3fd739fc86.png)
+
 
 Deployment: 
 https://drive.google.com/file/d/1LwBdvknOLk1ksE9Tvf4bJuigqYRpPgZL/view
